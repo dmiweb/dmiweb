@@ -51,6 +51,7 @@ Backend размещен на Render, поэтому первый ответ о�
 Репозиторий: https://github.com/dmiweb/search-redux-saga
 
 GitHub Page: https://dmiweb.github.io/search-redux-saga
+Примеры запросов: react, redux.
 
 Backend размещен на Render, поэтому первый ответ от сервера может занимать до 1 минуты.
 
