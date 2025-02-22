@@ -12,26 +12,22 @@
 </div>
 
 ### Мои учебные работы :
-https://github.com/dmiweb/news-feed-redux-saga
-https://dmiweb.github.io/news-feed-redux-saga
+#### Лента новостей
+<p>Этот проект представляет собой React-приложение для агрегации и отображения новостной ленты. Приложение получает данные с удаленного API и отображает их в удобном для пользователя формате. Ключевые особенности включают:</p>
+<ul>
+  <li>Динамическая подгрузка новостей (бесконечный скролл).</li>
+  <li>Поддержка различных типов новостного контента (статьи, видео, посты).</li>
+  <li>Интерактивные элементы социальных действий (лайки, комментарии, репосты).</li>
+  <li>Использование Redux для централизованного управления состоянием.</li>
+  <li>Использование Redux Saga для обработки асинхронных операций и побочных эффектов.</li>
+  <li>TypeScript для обеспечения типобезопасности и лучшей поддерживаемости кода.</li>
+</ul>
+
+Репозиторий: https://github.com/dmiweb/news-feed-redux-saga
+GitHub Page: https://dmiweb.github.io/news-feed-redux-saga
 
 ### :fire: My Stats 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmiweb&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dmiweb&theme=dark)](https://git.io/streak-stats)
 
-
-<!--
-**dmiweb/dmiweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
