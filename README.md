@@ -15,16 +15,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
-<div align="center">
+### :fire: My Stats 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmiweb&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="" alt="Top Langs" />
-  </a>
-</div>
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dmiweb&theme=dark)](https://git.io/streak-stats)
 
