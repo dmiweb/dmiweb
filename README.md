@@ -27,11 +27,11 @@
 
 GitHub Page: https://dmiweb.github.io/news-feed-redux-saga
 
-___
+---
 
 
 
-### :fire: My Stats 
+### :fire: Моя статистика 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmiweb&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dmiweb&theme=dark)](https://git.io/streak-stats)
