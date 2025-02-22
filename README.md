@@ -22,13 +22,7 @@
   <li>TypeScript для обеспечения типобезопасности и лучшей поддерживаемости кода.</li>
 </ul>
 
-<p>Технологии: 
-*   React
-*   Redux
-*   Redux Saga
-*   TypeScript
-*   Axios (или fetch API)
-*   (Любые другие библиотеки, которые вы использовали)</p>
+<p>Технологии: React, Redux, Redux Saga, TypeScript, fetch API</p>
 
 Репозиторий: https://github.com/dmiweb/news-feed-redux-saga
 GitHub Page: https://dmiweb.github.io/news-feed-redux-saga
