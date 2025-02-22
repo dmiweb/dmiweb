@@ -16,9 +16,9 @@
 </div>
 
 ### :fire: My Stats :
-<p align="center">
+<div align="center">
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmiweb&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+</div>
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dmiweb&theme=dark)](https://git.io/streak-stats)
 
