@@ -24,10 +24,11 @@
 Технологии: React, Redux, Redux Saga, TypeScript, fetch API.
 
 Репозиторий: https://github.com/dmiweb/news-feed-redux-saga
+
 GitHub Page: https://dmiweb.github.io/news-feed-redux-saga
 
 ### :fire: My Stats 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmiweb&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dmiweb&theme=dark)](https://git.io/streak-stats)
+ 
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dmiweb&theme=dark)](https://git.io/streak-stats)
 
