@@ -27,7 +27,7 @@
 
 GitHub Page: https://dmiweb.github.io/news-feed-redux-saga
 
----
+<hr>
 
 
 
