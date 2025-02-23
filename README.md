@@ -11,6 +11,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
+## Мое резюме: https://docs.google.com/document/d/1NKfu8rPE_DfZmzmSlexE5s5wnFdkwCFp8ZBhX85pMhQ/edit?usp=sharing
+
+
 ## Мои учебные работы :
 ## _Лента новостей_
 Этот проект представляет собой React-приложение для агрегации и отображения новостной ленты. Приложение получает данные с удаленного API и отображает их в удобном для пользователя формате. Ключевые особенности включают:
