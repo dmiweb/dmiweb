@@ -2,9 +2,9 @@
 
 ## Мой стек технологий :
 <div>
-  <div style="display: flex; align-items: center">
+  <div style="width: 50%;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-    <span>HTML</span>
+    <span> - HTML</span>
   </div>
   <div style="display: flex; align-items: center"></div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; - CSS<br>
